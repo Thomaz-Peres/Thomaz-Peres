@@ -6,6 +6,4 @@ My name is Thomaz, I study .NET and ASP.NET core, and is a Game Developer with U
 
 - 📚 Games student at FIAP
 
-- I really like listen Eminem
-
 - Future site here : :facepalm:
