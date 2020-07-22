@@ -5,6 +5,5 @@
 
 My name is Thomaz, I study .NET and ASP.NET core, and is a Game Developer with Unity.
 
-- 📚 Games student at FIAP
-
-- Future site here : :facepalm:
+- 📚 Games programmer student at FIAP
+- :computer: Tech and Games lover
