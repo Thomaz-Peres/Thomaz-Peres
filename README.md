@@ -2,10 +2,10 @@
 
 #### Hello!! Welcome to my GitHub 
 
-My name is Thomaz, I study .NET and ASP.NET core, and is a Game Developer with Unity.
+My name is Thomaz, I study .NET, ASP.NET core and Unity.
 
 - 📚 Games programmer student at FIAP
-- :computer: Tech and Games lover
+- :computer: Lover of technology , Games and Music
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Thomaz-Peres&show_icons=true&theme=tokyonight)
 
