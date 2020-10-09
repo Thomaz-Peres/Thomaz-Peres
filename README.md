@@ -1,5 +1,3 @@
-# ThomazPeres
-
 #### Hello!! Welcome to my GitHub 
 
 My name is Thomaz, I study .NET, ASP.NET core and Unity.
