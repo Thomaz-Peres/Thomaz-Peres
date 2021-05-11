@@ -1,6 +1,6 @@
 #### Hello!! Welcome to my GitHub 
 
-My name is Thomaz, I work with .NET and ASP.NET core, and like study Unity.
+My name is Thomaz, I work with .NET and ASP.NET core, and like study Unity and Unreal.
 
 - 📚 Games programmer student at FIAP
 - :computer: Lover of technology , Games and Music
