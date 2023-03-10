@@ -1,5 +1,11 @@
-#### Hello!! Welcome to my GitHub 
+#### Hello!! I'm Thomaz 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Thomaz-Peres&show_icons=true&theme=tokyonight)
+About me
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/thomazperessilva)
+😄 I've 23 years old and have been studying programming since 2020
+
+📚 Passionate and learning about compilers, functional programming, type theory and programming languages design in general
+
+👷 Currently working at (Trinca)[http://www.trin.ca]
+
+💻 Software Engineer
